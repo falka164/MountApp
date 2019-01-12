@@ -1,0 +1,22 @@
+Yrsa kocha Chochlika
+A Chochlik kocha Yrsę! 
+Yrsa to wie
+i pizzę mu zje <3
+:D 
+Mount 
+przechowuje nazwa wierzchowca oraz ikonkę
+File Manager
+zarządza plikiwm, w którym pezechowywana jest lista wierzchowców do zdobycia
+powinien czytać i wpisywać do pliku
+
+Manager
+zarządza listą wierzchowców - np dodaje, usuwa wierzchowce, sprawdza czy dodane wierzchowce się nie duplikują 
+zarządza innymi klasami 
+
+JsonManager
+pobiera jsony i przerabia je na listę wierzchowców
+
+
+Window
+tworzy odpowiednie komponenty do wyświetlania
+
